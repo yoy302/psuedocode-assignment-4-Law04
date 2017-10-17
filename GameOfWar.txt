@@ -3,11 +3,16 @@ The deck is divided evenly, with each player receiving 27 cards, dealt one at a 
 You and your 1 partner places their cards face down, in front of them. 
 Each Player turns up a card at the same time and the player with the higher card takes both cards and puts them on the bottom of their deck.
 (2-10,J,Q,K,A,Jokers) Ranked from lowest to highest left to right.
-If the cards are equivalent: 
+While the cards are equivalent: 
   it’s a war and each player places the top 3 cards of their deck face down then plays the next card face up. 
-  The player with the higher card takes both piles (ten cards). If the played cards are equivalent again: 
-    have another war. 
-The player with the higher card takes all 10 cards, and so on. 
+  The player with the higher card takes both piles. 
+  Repeat until the cards are no longer equvalent or until you run out of cards.
+If you run out of cards without a winner being declared:
+  Play again.
+Otherwise continue the game.
+If a player can't supply enoguh cards to continue the game:
+  They lose.
+The player with the higher card takes all cards, and so on. 
 The game ends when one player has won all the cards.
 Remember to have fun!
 
