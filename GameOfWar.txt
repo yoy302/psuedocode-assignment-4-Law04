@@ -9,4 +9,5 @@ If the cards are equivalent:
     have another war. 
 The player with the higher card takes all 10 cards, and so on. 
 The game ends when one player has won all the cards.
+Remember to have fun!
 
