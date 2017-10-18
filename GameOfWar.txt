@@ -1,6 +1,27 @@
 The goal is to be the first player to win all 54 cards. 
 The deck is divided evenly, with each player receiving 27 cards, dealt one at a time, face down. 
 You and your 1 partner places their cards face down, in front of them. 
+
+// Player Turn Example... This does not take into account the possiblity of losing. 
+Turn the Top Card of your Deck Face Up. 
+While Cards Facing Up is Less Than 2:
+  Wait.
+If face value of your card is less than theirs :
+  They take cards place on the bottom of their deck.
+Else if face value of your card is greater than theirs: 
+  They take cards place on the bottom of your deck.
+Else:
+  While Cards Showing on top are equal:
+    Player does the following 3 times:
+      Player Plays a card face down.
+    Player flips top face down card.
+    If face value of your card is less than theirs :
+      They take cards place on the bottom of their deck.
+    Else if face value of your card is greater than theirs: 
+      They take cards place on the bottom of your deck.
+
+/*   The below is ok in simple sentences, but not complex enough to be step by step instructions. */
+
 Each Player turns up a card at the same time and the player with the higher card takes both cards and puts them on the bottom of their deck.
 (2-10,J,Q,K,A,Jokers) Ranked from lowest to highest left to right.
 While the cards are equivalent: 
