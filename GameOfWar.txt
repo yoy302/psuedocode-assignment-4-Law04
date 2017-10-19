@@ -4,7 +4,7 @@ Cards are ranked (2-10,J,Q,K,A,Jokers) from lowest to highest left to right.
 If at any point in the game a player does not posses enough cards to continue:
    They lose.
 
-// Player Turn Example... This does not take into account the possiblity of losing. 
+// Player Turn Example... This does not take into account the possiblity of losing. jef
 Turn the Top Card of your Deck Face Up. 
 While Cards Facing Up is Less Than 2:
   Wait.
